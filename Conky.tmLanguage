@@ -73,7 +73,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\s*(above|below|bottom_left|bottom_right|bottom_middle|desktop|dock|no|none|normal|override|skip_pager|skip_taskbar|sticky|top_left|top_right|top_middle|middle_left|middle_right|middle_middle|undecorated|yes|true|none|false|normal|override|desktop|hotpink)(\,|)</string>
+			<string>\s*(above|below|bottom_left|bottom_right|bottom_middle|desktop|dock|normal|override|skip_pager|skip_taskbar|sticky|top_left|top_right|top_middle|middle_left|middle_right|middle_middle|undecorated|yes|true|none|false|normal|override|desktop|normal|hotpink|no)(\,|)</string>
 			<key>name</key>
 			<string>storage.type.conky</string>
 		</dict>
